@@ -26,6 +26,7 @@
     "moment": "^2.22.2",
     "node-sass": "^4.9.0",
     "normalize.css": "8.0.0",
+    "numeral": "2.0.6",
     "raf": "3.3.2",
     "react": "16.0.0",
     "react-addons-shallow-compare": "15.6.0",
@@ -43,11 +44,11 @@
   },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
-    "eslint": "^4.19.1",
-    "eslint-plugin-react": "^7.8.2",
     "enzyme": "3.0.0",
     "enzyme-adapter-react-16": "1.0.0",
     "enzyme-to-json": "3.3.4",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.8.2",
     "jest": "23.0.0",
     "react-test-renderer": "16.0.0",
     "webpack-dev-server": "2.5.1"
